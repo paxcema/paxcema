@@ -1,24 +1,26 @@
-name: Lowlighter metrics
+name: Metrics
 on:
   schedule:
     - cron: "0 0 * * *"  # every day
   push:
     branches:
       - master
+      - main
   workflow_dispatch:
 jobs:
-  lowlighter_profile_metrics:
+  github_metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-
       - name: 🗃️ Base content - Default metrics
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.base.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
-          output_action: none
-          delay: 120
+          output_action: commit
+          delay: 10
           user: lowlighter
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
