@@ -19,13 +19,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">paxcema/IIC2143</span>
+                            <span class="diff-handle">paxcema/mindsDBchallenge</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">paxcema/JanetC</span>
+                            <span class="diff-handle">paxcema/MDB_personal_stuff</span>
                         </div>
                     </section>
                     <section>
@@ -33,9 +33,9 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added"> +67.6k</span> <span class="deleted">     -4</span></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats"><span class="added"> +71.1k</span> <span class="deleted"> -61.4k</span></div>
                             <span> </span>
                         </div>
                         <div class="field">
@@ -44,7 +44,7 @@
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
                             <div class="diff-box deleted"></div>
-                            <div class="diff-stats"><span class="added"> +35.7k</span> <span class="deleted">    -48</span></div>
+                            <div class="diff-stats"><span class="added"> +31.8k</span> <span class="deleted">     -6</span></div>
                             <span> </span>
                         </div>
                     </section>
@@ -146,8 +146,8 @@
                                 <text fill="currentColor" x="-9" dy="0.32em">−3.0k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L441,140.5L441,130.79004539559017L39,5Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L441,140.5L441,150.20995460440983L39,202.58219844357978Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L441,140.5L441,127.09938391699092L39,5Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L441,140.5L441,153.1976329442283L39,202.58219844357978Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
