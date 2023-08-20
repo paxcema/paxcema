@@ -2,7 +2,7 @@ Hello 👋
 
 My name is **Patricio**, and I'm a **Machine Learning Engineer** from Chile. 
 
-Currently developing AutoML solutions at [MindsDB](https://github.com/mindsdb/mindsdb).
+Currently at [MindsDB](https://github.com/mindsdb/mindsdb).
 <br />
 <br />
 <a href="https://www.linkedin.com/in/paxcema/">
