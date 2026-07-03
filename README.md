@@ -19,8 +19,9 @@ Currently at Google. Previously at [MindsDB](https://github.com/mindsdb/mindsdb)
 [![Pato's github stats](https://github-readme-stats.vercel.app/api?username=paxcema&show_icons=true&count_private=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paxcema&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 <!--
 **paxcema/paxcema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
